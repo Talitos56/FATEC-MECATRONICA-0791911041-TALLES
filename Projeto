@@ -75,5 +75,5 @@ sorteio = random.choice(lista)
 print('Pivô Time 3')
 print(sorteio)
 valor_quadra = n16 / 15
-print(f'\nValor da quadra para cada jogador:')
+print('\nValor da quadra para cada jogador:')
 print(valor_quadra)
